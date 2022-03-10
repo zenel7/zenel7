@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zenel7
+- 👋 Hi, I’m Elios
 - 👀 I’m interested in programming (front-end)
 - 🌱 I’m currently learning html,css,javascript
 
