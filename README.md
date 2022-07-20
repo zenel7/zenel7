@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Elios
-- 👀 I’m interested in programming (front-end)
-- 🌱 I’m currently learning html,css,javascript
+- 👋 Hi, I’m Elios a Computer and Informatics Engineering student.
+- 👀 I’m interested in programming (front-end).
+- 🌱 I’m currently self learning/practising html,css,javascript.
 
 
 <!---
